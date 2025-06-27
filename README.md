@@ -1,16 +1,38 @@
-# Trilha HTML - Dio.me
-## Módulo 01 - Primeiros passos com HTML
+# Projeto Final - Módulo HTML Semântico
 
-A ideia deste desafio é elaborar um website, utilizando uma estrutura bem básica, utilizando tags aprendidas durante as aulas práticas até então. 
+Este projeto consiste em uma página HTML simples que resume os principais conceitos aprendidos no módulo de HTML do BootCamp Santander pela DIO.
 
-Utilizar todas as tags explicadas nas aulas: `<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`
+## Sobre o Projeto
 
-Utilizar novas tags sugeridas: `<font>`, `<del>`, `<p>`, `<abbr>` (a ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto)
+A página foi construída utilizando apenas os elementos e atributos estudados durante o curso, focando na estrutura semântica do HTML para criar um código organizado, acessível e fácil de manter.
 
-Importante dizer que, estas tags te "seguirão" durante TODO O CURSO, por isso, é bom que esteja bem aprendidas para aproveitarem ao máximo as próximas aulas.
+## Conteúdo
 
-Este desafio vai fazer com que tenha dúvidas, o que é ótimo! Aos poucos você vai evoluindo na sua jornada.
+O projeto aborda as seguintes tags HTML importantes:
 
-Após concluído este desafio! Siga para o <strong>Módulo II - Conceitos Básicos.</strong>
+- div
+- span
+- main
+- header
+- footer
+- section
+- aside
+- article
+- form
+- fieldset e legend
 
-Nos vemos lá!
+## Como Usar
+
+- Abra o arquivo `index.html` em qualquer navegador para visualizar a página.
+- O projeto não possui dependências externas ou scripts.
+
+## Referências
+
+- [MDN Web Docs – HTML Semântico](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element#elementos_sem%C3%A2nticos)
+- [W3Schools – HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [Can I Use – HTML5 Support](https://caniuse.com/#search=html5)
+- [Google Web Fundamentals – Semantic HTML](https://web.dev/semantic-html/)
+
+---
+
+Feito por Rafael
